@@ -15,8 +15,9 @@
   </a>
 </div>
 
-
-<center><img src="https://komarev.com/ghpvc/?username=mrnipundilshan&style=flat-square&color=blue" alt=""/></center>
+<div id="count" align="center">
+<img src="https://komarev.com/ghpvc/?username=mrnipundilshan&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **mrnipundilshan/mrnipundilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
