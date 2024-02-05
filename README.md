@@ -26,10 +26,12 @@
 ### :woman_technologist: About Me :
 Mobile App Developer 👨‍💻 | Video Editor | Graphic designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri lanka.
 
-🌐 Web Development: Crafting engaging and efficient web solutions.
-🎨 UI/UX Designing: Bringing a seamless and delightful user experience to life.
-🚀 Flutter Application Development: Exploring the world of cross-platform mobile apps.
-💼 Project Leadership: Enthusiastic about leading teams in IT projects.
+<ul>
+   <li>🌐 Web Development: Crafting engaging and efficient web solutions. </li>
+   <li>🎨 UI/UX Designing: Bringing a seamless and delightful user experience to life.</li>
+   <li>🚀 Flutter Application Development: Exploring the world of cross-platform mobile apps.</li>
+   <li>💼 Project Leadership: Enthusiastic about leading teams in IT projects.</li>
+</ul>
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
