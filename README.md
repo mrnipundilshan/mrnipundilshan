@@ -24,8 +24,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-Tech Noob 👨‍💻 | Sri Lankan 🇱🇰
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri lanka.
+Mobile App Developer 👨‍💻 | Video Editor | Graphic designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri lanka.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
