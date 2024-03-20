@@ -6,12 +6,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nipundilsh4nc&label=Profile%20views&color=0e75b6&style=flat" alt="nipundilsh4n" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nipundilsh4n" target="blank"><img src="https://img.shields.io/twitter/follow/nipundilsh4n?logo=twitter&style=for-the-badge" alt="nipundilsh4n" /></a> </p>
-
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </a>
 
 - 🌐 Web Development: Crafting engaging and efficient web solutions. </a>
@@ -25,9 +21,8 @@
 - 💼 Project Leadership: Enthusiastic about leading teams in IT projects.
 
 - 📫 How to reach me **nipundilshan991@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
