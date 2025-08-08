@@ -5,7 +5,7 @@
 </div>
 
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1200&height=50&lines=Mobile+App+Developer👨‍💻,+Web+Developer📽️,+Graphic+Designer🖼️,+Video+Editor🧑‍💼"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1200&height=50&lines=Mobile+App+Developer👨‍💻,+Web+Developer🕸️,+Graphic+Designer🖼️,+Video+Editor🧑‍💼"></a>
 
 
 
@@ -51,7 +51,7 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">About Me 🤘 </h3>
 
-Mobile App Developer 👨‍💻 | Video Editor 📽️| Graphic designer 🖼️ | Commuinty Manager 🧑‍💼
+Mobile App Developer 👨‍💻 | Web+Developer🕸️ | Video Editor 📽️| Graphic designer 🖼️
 <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri lanka</p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools 🔨</h3>
