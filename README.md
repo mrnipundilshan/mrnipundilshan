@@ -15,13 +15,13 @@
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </a>
 
+- 🚀 Flutter Application Development: Exploring the world of cross-platform mobile apps.
+  
 - 🌐 Web Development: Crafting engaging and efficient web solutions. </a>
 
 - 🎨 UI/UX Designing: Bringing a seamless and delightful user experience to life.
 
 - 🤝 I’m available for freelancing.
-
-- 🚀 Flutter Application Development: Exploring the world of cross-platform mobile apps.
 
 - 💼 Project Leadership: Enthusiastic about leading teams in IT projects.
 
